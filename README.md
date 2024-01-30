@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <h3>The Spotify Insights Dashboard is a revolutionary project that aims to unlock the intricacies of music through a multidimensional analysis of various musical attributes. This advanced tool utilizes the vast dataset provided by Spotify to explore dimensions such as acousticsness , liveness, energy, valence, and danceability. With the integration of Tempo and Artist, Song Title slicers, the dashboard offers an immersive and dynamic exploration of Spotify's extensive music library.</h3>
+        <h3>The Spotify Insights Dashboard is like a super cool project that helps us understand music better. It looks at different things in songs, like whether they sound acoustic, if they're live, how energetic they are, how positive they feel, and if they're good for dancing. It uses a big collection of data from Spotify to do this. And guess what? It also lets you play with Tempo (how fast a song is) and use slicers for Artists and Song Titles, so you can explore and enjoy lots of music easily. It's like a fun journey into Spotify's huge collection of songs!</h3>
     </header>
     <section id="project-details">
         <div class="project-image">
